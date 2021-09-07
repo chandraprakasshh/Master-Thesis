@@ -1,2 +1,2 @@
-# Master-Thesis---Mid-Presentation
-Mid Presentation Report and Slide
+# Master-Thesis
+Thesis report, presenatation slides and code version 
